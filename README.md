@@ -1,4 +1,4 @@
-### hey there 
+<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=codeninjausman&style=flat-square"></h2>
 <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
