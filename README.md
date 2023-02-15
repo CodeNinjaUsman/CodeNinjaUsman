@@ -40,7 +40,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📊 **this week i spent my time on:**
 
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=codeninjausman&layout=compact&card_width=275&theme=swift&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="Langs" width="320px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninjausman&theme=swift" alt="Langs" width="320px">
 
 <!--END_SECTION:waka-->
 ##
