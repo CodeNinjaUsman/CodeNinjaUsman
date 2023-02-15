@@ -42,7 +42,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 📊 **this week i spent my time on:**
 
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty&theme=swift" alt="Buy Me A Coffee" width="350px">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=cheesits456&layout=compact&hide=smarty&theme=swift" alt="Buy Me A Coffee">
 
 <!--END_SECTION:waka-->
 ##
