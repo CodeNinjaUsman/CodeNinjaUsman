@@ -1,4 +1,4 @@
-<h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=codeninjausman&style=flat-square"></h2>
+<h2>About Me 😄<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=codeninjausman&style=flat-square"></h2>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
