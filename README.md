@@ -61,5 +61,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=codeninjausman&show_icons=true&theme=swift" alt="codeninjausman" />
 <p> <img src="https://streak-stats.demolab.com?user=CodeNinjaUsman" alt="codeninjausman" />
+  <p> <img src="https://github-profile-trophy.vercel.app/?username=codeninjausman" alt="codeninjausman" />
 
 
