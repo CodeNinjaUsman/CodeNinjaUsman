@@ -1,3 +1,4 @@
+abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!"#$%&'()*+,-./:;<=>?@[]^_`{|}~
 <meta name="google-site-verification" content="LZyQRJnbqJPgnA9MydeQ74g5NZDcFqUMp8kaA0G1fGs" />
 <h2>About Me 😄<img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=codeninjausman&style=flat-square"></h2>
 <a href="https://twitter.com/codeninjausman">
